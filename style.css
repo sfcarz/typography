@@ -1,0 +1,27 @@
+body {
+    background-color: #999;
+}
+
+.lorem1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.lorem2,
+.lorem3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h3,
+h4 {
+    color: brown;
+}
